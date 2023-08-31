@@ -1,0 +1,91 @@
+clock
+person
+skis
+backpack
+2000
+500
+₹10 coin
+₹2
+bicycle
+knife
+cake
+handbag
+sandwich
+cup
+₹ 1
+200
+traffic light
+20
+10
+cat
+bed
+bench
+car
+bird
+motorcycle
+stop sign
+fire hydrant
+tv
+chair
+dining table
+remote
+couch
+cell phone
+laptop
+bottle
+refrigerator
+microwave
+oven
+airplane
+boat
+umbrella
+₹5
+teddy bear
+suitcase
+truck
+surfboard
+banana
+mouse
+keyboard
+book
+snowboard
+bowl
+vase
+orange
+carrot
+100
+hot dog
+potted plant
+bus
+frisbee
+tennis racket
+train
+sheep
+50
+dog
+tie
+fork
+spoon
+toilet
+sink
+pizza
+giraffe
+donut
+wine glass
+parking meter
+kite
+skateboard
+scissors
+broccoli
+baseball bat
+baseball glove
+horse
+apple
+sports ball
+elephant
+cow
+toothbrush
+zebra
+hair drier
+toaster
+bear
