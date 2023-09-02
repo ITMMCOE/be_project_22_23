@@ -1,0 +1,70 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.4",
+    "@handsontable/react": "^12.3.1",
+    "@mantine/carousel": "^5.10.3",
+    "@mantine/core": "^5.10.3",
+    "@mantine/dates": "^5.10.3",
+    "@mantine/dropzone": "^5.10.3",
+    "@mantine/form": "^5.10.3",
+    "@mantine/hooks": "^5.10.3",
+    "@mantine/modals": "^5.10.3",
+    "@mantine/notifications": "^5.10.3",
+    "@mantine/nprogress": "^5.10.3",
+    "@tabler/icons-react": "^2.3.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "bootstrap-icons": "^1.9.1",
+    "dayjs": "^1.11.7",
+    "draft-js": "^0.11.7",
+    "embla-carousel-react": "^7.0.9",
+    "handsontable": "^12.3.1",
+    "js-cookie": "^3.0.1",
+    "node-sass": "^7.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-dropzone": "^14.2.2",
+    "react-image-crop": "^10.0.9",
+    "react-router-dom": "^6.4.0",
+    "react-scripts": "5.0.1",
+    "react-secure-storage": "^1.1.0",
+    "react-super-responsive-table": "^5.2.1",
+    "serve": "^14.2.0",
+    "slate": "^0.93.0",
+    "slate-react": "^0.93.0",
+    "victory": "^36.6.8",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "deploy": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

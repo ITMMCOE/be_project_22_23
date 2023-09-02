@@ -1,0 +1,57 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "auto-document": "node documentation/swagger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kedar-Khedkar/BE-Project.git"
+  },
+  "keywords": [
+    "DDMS"
+  ],
+  "author": "Piyush Terkar, Mitali Chougule, Kedar Khedkar, Saurabh Lohokare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kedar-Khedkar/BE-Project/issues"
+  },
+  "homepage": "https://github.com/Kedar-Khedkar/BE-Project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcrypt": "^5.1.0",
+    "compression": "^1.7.4",
+    "connect-flash": "^0.1.1",
+    "connect-session-sequelize": "^7.1.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "joi": "^17.6.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^2.3.3",
+    "nodemailer": "^6.8.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-sequelize": "^0.9.0",
+    "pdf-table-extractor": "^1.0.3",
+    "pdf.js-extract": "^0.2.1",
+    "python-shell": "^3.0.1",
+    "sanitize-html": "^2.7.2",
+    "sequelize": "^6.21.6",
+    "swagger-autogen": "^2.22.0",
+    "swagger-ui-express": "^4.6.0",
+    "twilio": "^4.9.0",
+    "uuid": "^9.0.0"
+  }
+}

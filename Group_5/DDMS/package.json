@@ -1,0 +1,28 @@
+{
+  "name": "ddms",
+  "version": "1.0.0",
+  "description": "ddms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\"",
+    "i": "concurrently \"cd backend && npm i\" \"cd frontend && npm i\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kedar-Khedkar/BE-Project.git"
+  },
+  "keywords": [
+    "DDMS"
+  ],
+  "author": "Piyush Terkar, Mitali Chougule, Kedar Khedkar, Saurabh Lohokare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kedar-Khedkar/BE-Project/issues"
+  },
+  "homepage": "https://github.com/Kedar-Khedkar/BE-Project#readme",
+  "devDependencies": {
+    "concurrently": "^7.3.0",
+    "nodemon": "^2.0.19"
+  }
+}

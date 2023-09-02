@@ -1,0 +1,125 @@
+[
+  {
+    "link": "/dashboard",
+    "group": "Home",
+    "value": "Dashboard",
+    "description": "Cards, home, dash, Dashboard"
+  },
+  {
+    "link": "/my-account",
+    "group": "Home",
+    "value": "Account",
+    "description": "Profile, account, my, my account, my profile"
+  },
+  {
+    "link": "/user-mgmt/1",
+    "group": "User Management",
+    "value": "Create Users",
+    "description": "add user create user new user add student add faculty create student create faculty new faculty new student"
+  },
+  {
+    "link": "/user-mgmt/2",
+    "group": "User Management",
+    "value": "Manage Faculty",
+    "description": "manage faculty edit faculty account faculty update account update delete faculty account remove faculty account"
+  },
+  {
+    "link": "/user-mgmt/3",
+    "group": "User Management",
+    "value": "Manage Student accounts",
+    "description": "manage student account edit student account update student account delete student account remove student account"
+  },
+  {
+    "link": "/user-mgmt/4",
+    "group": "User Management",
+    "value": "Restore Deleted accounts",
+    "description": "bin trash restore user accounts recycle bin"
+  },
+  {
+    "link": "/attend-mgmt/1",
+    "group": "Attendance",
+    "value": "Attendance Dashboard",
+    "description": "attendance dashboard attendance report attendance analysis"
+  },
+  {
+    "link": "/attend-mgmt/2",
+    "group": "Attendance",
+    "value": "Mark Attendance",
+    "description": "attendance mark new attendance create attendance add attendance"
+  },
+  {
+    "link": "/attend-mgmt/3",
+    "group": "Attendance",
+    "value": "Edit Attendance",
+    "description": "edit attendance manage attendance update attendance delete attendance"
+  },
+  {
+    "link": "/attend-mgmt/4",
+    "group": "Attendance",
+    "value": "Attendance Report",
+    "description": "attendance report analysis attendance generate report generate attendance report"
+  },
+  {
+    "link": "/subject-mgmt/1",
+    "group": "Subject management",
+    "value": "Create Subject",
+    "description": "create subject new subject add subject"
+  },
+  {
+    "link": "/subject-mgmt/2",
+    "group": "Subject management",
+    "value": "Edit Subject",
+    "description": "edit subject update subject change subject delete subject"
+  },
+  {
+    "link": "/subject-mgmt/3",
+    "group": "Subject management",
+    "value": "Claim/Unclaim Subject",
+    "description": "claim subject get subject teach subject unclaim subject remove subject unteach subject"
+  },
+  {
+    "link": "/marks-mgmt/1",
+    "group": "Marks management",
+    "value": "Unit Tests",
+    "description": "unit test marks ut marks ut upload unit test edit unit test update ut edit ut update"
+  },
+  {
+    "link": "/marks-mgmt/2",
+    "group": "Marks management",
+    "value": "Insem",
+    "description": "insem marks insem update insem edit insem add insem create"
+  },
+  {
+    "link": "/marks-mgmt/3",
+    "group": "Marks management",
+    "value": "Generate Report",
+    "description": "generate marks report marks result analysis"
+  },
+  {
+    "link": "/miscellaneous-mgmt/1",
+    "group": "Miscellaneous",
+    "value": "Student Promotion",
+    "description": "Student promotion"
+  }
+  ,
+  {
+    "link": "/miscellaneous-mgmt/2",
+    "group": "Miscellaneous",
+    "value": "Notification",
+    "description": "Send notification"
+  }
+  ,
+  {
+    "link": "/miscellaneous-mgmt/3",
+    "group": "Miscellaneous",
+    "value": "Map Seat Number",
+    "description": "Map Seat number"
+  }
+  ,
+  {
+    "link": "/miscellaneous-mgmt/4",
+    "group": "Miscellaneous",
+    "value": "Roll Number Management",
+    "description": "Roll number management"
+  }
+]
